@@ -1,0 +1,26 @@
+[
+    {
+      "model": "gym.entrenador",
+      "pk": 1,
+      "fields": {
+        "nombre": "Sergio Peinado",
+        "especialidad": "Crossfit"
+      }
+    },
+    {
+      "model": "gym.entrenador",
+      "pk": 2,
+      "fields": {
+        "nombre": "Barbara Regil",
+        "especialidad": "Yoga"
+      }
+    },
+    {
+      "model": "gym.entrenador",
+      "pk": 3,
+      "fields": {
+        "nombre": "Fausto",
+        "especialidad": "Pilates"
+      }
+    }
+  ]

@@ -1,0 +1,29 @@
+[
+{
+  "model": "gym.cliente",
+  "pk": 1,
+  "fields": {
+    "nombre": "Ana Martinez",
+    "correo": "ana.martinez@example.com",
+    "membresia": "Premium"
+  }
+},
+{
+  "model": "gym.cliente",
+  "pk": 2,
+  "fields": {
+    "nombre": "Monica Fernadez",
+    "correo": "monica.fernadez@example.com",
+    "membresia": "Basica"
+  }
+},
+{
+  "model": "gym.cliente",
+  "pk": 3,
+  "fields": {
+    "nombre": "Mariano Felix",
+    "correo": "mariano.felix@example.com",
+    "membresia": "Media"
+  }
+}
+]

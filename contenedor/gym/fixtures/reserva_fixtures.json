@@ -1,0 +1,29 @@
+[
+{
+  "model": "gym.reserva",
+  "pk": 1,
+  "fields": {
+    "clase": 1,
+    "cliente": 1,
+    "fecha_reserva": "2024-10-17T09:00:00Z"
+  }
+},
+{
+  "model": "gym.reserva",
+  "pk": 2,
+  "fields": {
+    "clase": 1,
+    "cliente": 2,
+    "fecha_reserva": "2024-10-17T09:00:00Z"
+  }
+},
+{
+  "model": "gym.reserva",
+  "pk": 3,
+  "fields": {
+    "clase": 1,
+    "cliente": 2,
+    "fecha_reserva": "2024-10-17T09:00:00Z"
+  }
+}
+]

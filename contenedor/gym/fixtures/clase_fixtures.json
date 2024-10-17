@@ -1,0 +1,35 @@
+[
+{
+  "model": "gym.clase",
+  "pk": 1,
+  "fields": {
+    "nombre": "Yoga Avanzado",
+    "horario": "2024-10-17T10:00:00Z",
+    "capacidad": 15,
+    "entrenador": 2,
+    "precio": "300.00"
+  }
+},
+{
+  "model": "gym.clase",
+  "pk": 1,
+  "fields": {
+    "nombre": "Pilates Mujeres",
+    "horario": "2024-10-17T10:00:00Z",
+    "capacidad": 10,
+    "entrenador": 1,
+    "precio": "350"
+  }
+},
+{
+  "model": "gym.clase",
+  "pk": 1,
+  "fields": {
+    "nombre": "Bailando pop",
+    "horario": "2024-10-17T10:00:00Z",
+    "capacidad": 13,
+    "entrenador": 3,
+    "precio": "200.00"
+  }
+}
+]
