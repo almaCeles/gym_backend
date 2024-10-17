@@ -25,5 +25,14 @@
     "cliente": 2,
     "fecha_reserva": "2024-10-17T09:00:00Z"
   }
+},
+{
+  "model": "gym.reserva",
+  "pk": 3,
+  "fields": {
+    "clase": 2,
+    "cliente": 3,
+    "fecha_reserva": "2024-10-18T09:00:00Z"
+  }
 }
 ]

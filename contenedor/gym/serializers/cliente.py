@@ -8,3 +8,9 @@ class ClienteSerializer(serializers.ModelSerializer):
     class Meta:
         model = Cliente
         fields = ['id', 'nombre', 'correo', 'membresia']
+
+
+class ClienteNombreSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Cliente
+        fields = ['nombre']
